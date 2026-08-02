@@ -1,0 +1,23 @@
+# OrbitDesk Support Agent - Dependencies
+# Python 3.9+
+
+# LangGraph & LangChain
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+# Hugging Face local models
+transformers>=4.40.0
+sentence-transformers>=3.0.0
+torch>=2.0.0
+
+# Vector similarity search (local, no managed DB)
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# Schema validation
+jsonschema>=4.0.0
+
+# Utilities
+tqdm>=4.65.0
+colorama>=0.4.6
