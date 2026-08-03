@@ -95,5 +95,5 @@ if __name__ == "__main__":
     app = build_graph()
     print("Graph built successfully!")
     
-    # You can print the graph structure if needed
+    # can print the graph structure if needed
     print(app.get_graph().draw_ascii())
