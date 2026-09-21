@@ -1,8 +1,8 @@
-# OrbitDesk Support Agent 🤖
+# OrbitDesk Support Agent.
 
 An AI agent network that answers support questions for OrbitDesk using a local-first architecture with LangGraph and Hugging Face models.
 
-> ⚠️ **AI Disclosure**: This project was built with the assistance of an AI coding assistant (Claude/Antigravity). All code, design decisions, and architecture are understood and can be explained by the author.
+> **AI Disclosure**: This project was built with the assistance of an AI coding assistant (Claude/Antigravity). All code, design decisions, and architecture are understood and can be explained by the author.
 
 ---
 
