@@ -6,7 +6,7 @@ An AI agent network that answers support questions for OrbitDesk using a local-f
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture:
 
 The agent uses a **LangGraph graph** with 4 main nodes:
 
